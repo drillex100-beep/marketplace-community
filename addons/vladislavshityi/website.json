@@ -1,0 +1,33 @@
+{
+  "id": "website",
+  "name": {
+    "en": "Website",
+    "ru": "Сайт"
+  },
+  "description": {
+    "en": "Your VPN service's website, built in the panel like the subscription page: themes, pages, blocks, plans, servers and buttons to the bot with a campaign. Keeps everything in the panel, reached through Cloudflare Tunnel or your own proxy.",
+    "ru": "Сайт вашего VPN-сервиса, который собирается в панели как страница подписки: темы, страницы, блоки, тарифы, серверы и кнопки в бота с кампанией. Хранит всё в панели, открывается через Cloudflare Tunnel или ваш прокси."
+  },
+  "version": "0.1.0",
+  "protocol": 2,
+  "kind": "ui",
+  "mode": "http",
+  "permissions": [
+    "ui",
+    "kv"
+  ],
+  "resources": {
+    "mem_mb": 192
+  },
+  "image": "ghcr.io/vladislavshityi/mikan-website",
+  "digest": "sha256:69bee8f6b0fc873272bcef5bad641374ce332ba1c93a408b702e2e02f7e729cd",
+  "min_panel": "0.5.2.0",
+  "homepage": "https://github.com/vladislavshityi/mikan-website",
+  "repo": "github.com/vladislavshityi/mikan-website",
+  "repo_id": 1451555018,
+  "key": "8f0wooxv45Zu7Yiol25Tsg5r6UhI6g4XUC5SAkMIqBQ=",
+  "stars": 0,
+  "downloads": 4,
+  "added_at": 1794250000,
+  "updated_at": 1794250000
+}
